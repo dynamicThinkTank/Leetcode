@@ -18,7 +18,7 @@ package com.jeetu.leetcode
 
 fun main(){
     listExample1()
-    //outPutListExample()
+    outPutListExample()
     //genericListExample()
     //mutableListExample()
     //arrayListExample()
